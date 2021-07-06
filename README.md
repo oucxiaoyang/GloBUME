@@ -1,5 +1,5 @@
 # GloBUME
-GloBME is a global dynamic building material use and embodied GHG emissions model. It transfers the social economic development in 26 global regions into the consumption of building materials and GHG emissions from the production of these materials. It models 7 materials for 4 residential building types in two areas (rural/urban) and 4 commercial building types. More details are avaliable in the paper: Global greenhouse gas emissions from residential and commercial building materials and mitigation strategies to 2060.
+GloBUME is a global dynamic building material use and embodied GHG emissions model. It transfers the social economic development in 26 global regions into the consumption of building materials and GHG emissions from the production of these materials. It models 7 materials for 4 residential building types in two areas (rural/urban) and 4 commercial building types. More details are avaliable in the paper: Global greenhouse gas emissions from residential and commercial building materials and mitigation strategies to 2060.
 
 Corresponding author: x.zhong@cml.leidenuniv.nl
 
