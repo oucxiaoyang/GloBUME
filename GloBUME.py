@@ -1,6 +1,7 @@
 
 """
 October 2020
+Updated: August 2021
 Software version: Python 3.7
 
 This code retrieves the calculation of building material demand and embodied greenhouse gas emissions in 26 global regions between 2020-2060. For the original code & latest updates, see: https://github.com/oucxiaoyang/GloBUME
@@ -9,9 +10,10 @@ The dynamic stock model is based on the ODYM model developed by Stefan Pauliuk, 
 
 @author: Sebastiaan Deetman; deetman@cml.leidenuniv.nl
          Xiaoyang Zhong; x.zhong@cml.leidenuniv.nl
-contributions from: Glenn Aguilar, Sylvia Marinova
+         Glenn Aguilar; g.a.aguilar@cml.leidenuniv.nl
+contributions from: Sylvia Marinova
 
-*NOTE: Insert location of the GloBUME-main folder in 'dir_path' (line 26) to run the code.
+*NOTE: Insert location of the GloBUME-main folder in 'dir_path' (line 28) to run the code.
 
 """
 
@@ -23,7 +25,7 @@ import ctypes
 import math
 
 # set current directory
-dir_path = "E:\\Leiden\\research\\building related emissions\\paper2\\GloBUME-main-upload"
+dir_path = ""
 os.chdir(dir_path)   
 
 # Set general constants
